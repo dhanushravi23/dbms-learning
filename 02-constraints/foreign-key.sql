@@ -1,4 +1,3 @@
-use student_management;
 
 select s.name, d.dept_name
 from student s
