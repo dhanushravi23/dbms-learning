@@ -11,5 +11,4 @@ values ('java', 3), ('dbms', 4);
 insert into enrollment (student_id, course_id)
 values (1, 1),
        (1, 2),
-       (2, 1),
-       (2, 2);
+       (2, 1);
